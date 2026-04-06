@@ -1,4 +1,5 @@
-<img width="625" height="625" alt="image" src="https://github.com/user-attachments/assets/ca18861a-2973-4fb1-ae27-c9871e75fee5" />
+  <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/74705c3e-856b-44f5-bf54-a045d20d6588" />
+
 
 
 # Oceanside-Cleaners-CCR-Production-Calculator
