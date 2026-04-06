@@ -1,4 +1,6 @@
 <img width="625" height="625" alt="image" src="https://github.com/user-attachments/assets/ca18861a-2973-4fb1-ae27-c9871e75fee5" />
+
+
 # Oceanside-Cleaners-CCR-Production-Calculator
 A Program to assist the CCR whom is handling calculating production reports.
 ---------------------------------------------------------------------------------------------------------------
