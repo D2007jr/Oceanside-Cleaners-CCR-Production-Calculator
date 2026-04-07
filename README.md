@@ -1,4 +1,4 @@
-# Oceanside-Cleaners-CCR-Production-Calculator 
+# 👚 Oceanside Cleaners CCR Production Calculator 👚
 A Program to assist the CCR whom is handling calculating production reports.
 ---------------------------------------------------------------------------------------------------------------
 This program will be used to assist the CCR whom is calculating and reporting the teams production percentages. Currently the CCR in charge of handling them is Stephanie Alfonso.
